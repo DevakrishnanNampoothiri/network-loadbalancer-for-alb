@@ -1,2 +1,2 @@
 # network-loadbalancer-for-alb
-Terraform implementation steps and tf files to configure NLB for ALB 
+Terraform implementation to setup and configure NLB for ALB
